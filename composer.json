@@ -1,0 +1,10 @@
+{
+    "name": "drupal/commerce_cardpay",
+    "type": "drupal-module",
+    "description": "Provides Commerce integration for CardPay",
+    "homepage": "http://drupal.org/project/commerce_cardpay",
+    "require": {
+        "drupal/commerce": "^2.25 || ^3",
+        "backbone/chaching": "0.23.1"
+    }
+}

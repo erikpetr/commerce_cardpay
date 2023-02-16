@@ -1,0 +1,7 @@
+name: 'Commerce CardPay'
+type: module
+description: 'Commerce Payment module for CardPay gateway'
+core_version_requirement: ^8 || ^9 || ^10
+package: 'Custom'
+dependencies:
+  - commerce:commerce_payment
