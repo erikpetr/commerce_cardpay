@@ -2,7 +2,7 @@
 
 namespace Drupal\commerce_cardpay\Plugin\Commerce\PaymentGateway;
 
-use Drupal\commerce_gpwebpay\Factory\CardPayChachingFactory;
+use Drupal\commerce_cardpay\Factory\CardPayChachingFactory;
 use Drupal\commerce_order\Entity\OrderInterface;
 use Drupal\commerce_payment\Exception\PaymentGatewayException;
 use Drupal\commerce_payment\Plugin\Commerce\PaymentGateway\OffsitePaymentGatewayBase;

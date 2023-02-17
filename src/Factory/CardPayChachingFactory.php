@@ -1,13 +1,13 @@
 <?php
 
-namespace Drupal\commerce_gpwebpay\Factory;
+namespace Drupal\commerce_cardpay\Factory;
 
 use Chaching\Chaching;
 
 class CardPayChachingFactory {
 
   /**
-   * Creates instance of Chaching for GP webpay
+   * Creates instance of Chaching for CardPay
    *
    * @param array $configuration
    * @param boolean $sandbox
