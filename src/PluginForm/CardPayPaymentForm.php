@@ -4,7 +4,6 @@ namespace Drupal\commerce_cardpay\PluginForm;
 
 use Chaching\Currencies;
 use Drupal\commerce_gpwebpay\Factory\CardPayChachingFactory;
-use Drupal\commerce_gpwebpay\Factory\GPChachingFactory;
 use Drupal\commerce_payment\PluginForm\PaymentOffsiteForm;
 use Drupal\Core\Form\FormStateInterface;
 
